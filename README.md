@@ -1,1 +1,1 @@
-# https://maminsant.github.io/tarefa1/
+# https://maminsant.github.io/script/
